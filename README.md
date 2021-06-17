@@ -22,7 +22,7 @@ Este projeto foi desenvolvido pensando em uma Startup fictícia, chamada de E-Di
 
 ## Tecnologias utilizadas
 ### Front end
-- HTML / CSS 
+- HTML / CSS / JS
 - TypeScript
 - React Native
 
