@@ -5,7 +5,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import { NavigationTheme } from 'ui/themes/app-theme';
 import Index from 'pages';
 import EncontrarDiaristas from 'pages/encontrar-diarista';
-import Logo from '@assets/img/logos/e-diarista-logo.png';
+import Logo from '@assets/img/logos/e-diaristas-logo.png';
 
 const Stack = createStackNavigator();
 
@@ -30,7 +30,7 @@ const Router: React.FC = () => {
                                     height: 50,
                                     resizeMode: 'contain',
                                 }}
-                                 source={Logo}
+                                source={Logo}
                             />
                         ),
                     }}
